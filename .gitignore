@@ -60,3 +60,11 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+conanbuildinfo.txt
+conaninfo.txt
+Makefile
+*.exe
+*.make
+example/obj/*
+conanpremake.lua

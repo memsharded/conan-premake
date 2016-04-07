@@ -1,0 +1,7 @@
+[requires]
+Hello/0.1@memsharded/testing
+PremakeGen@0.1@memsharded/testing
+
+[generators]
+Premake
+txt
